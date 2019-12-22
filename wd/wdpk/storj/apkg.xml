@@ -11,7 +11,7 @@
       <name>storj</name>
       <show>storjadmin</show>
       <enable>1</enable>
-      <version>0.0.1-1</version>
+      <version>0.0.1-3</version>
       <date>20191222</date>
       <inst_date/>
       <path/>
@@ -26,7 +26,7 @@
       <inst_conflict/>
       <start_depend/>
       <start_conflict/>
-      <description>Storj Admin interface</description>
+      <description>Storj Admin interface v3</description>
       <icon>storj.png</icon>
       <MinFWVer/>
       <MaxFWVer/>

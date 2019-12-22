@@ -2,7 +2,7 @@ Package:          storj
 Packager:         storjAdmin
 Email:            dev@sws-international.com
 Homepage:         https://github.com/swstechdev/
-Description:      Storj Admin interface
+Description:      Storj Admin interface v 0.0.1-4
 Icon:             storj.png
 AddonShowName:    storjadmin
 AddonIndexPage:	  index.php
@@ -11,7 +11,8 @@ InstDepend:
 InstConflict:
 StartDepend:
 StartConflict:
-Version:	  0.0.1-1
+Version:	  0.0.1-4
 MinFWVer:
 MaxFWVer:
 IndividualFlag:   0
+CenterType:	0

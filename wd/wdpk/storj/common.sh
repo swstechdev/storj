@@ -1,4 +1,6 @@
 #!/bin/sh
+echo `date` >> /tmp/abc
+echo "Running script $0 with $# args: $* " >> /tmp/abc
 capture_run() {
     CORTAR_LOGFILE=/tmp/cortar.log
     echo "------------------------" >> ${CORTAR_LOGFILE}
